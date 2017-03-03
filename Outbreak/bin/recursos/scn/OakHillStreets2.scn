@@ -1,0 +1,148 @@
+121
+src/recursos/tiles/008.png
+src/recursos/tiles/004.png
+src/recursos/tiles/parede pedra.png
+asfalto que reduz o nemesis de velocidade
+src/recursos/tiles/002.png
+src/recursos/tiles/523.png
+src/recursos/tiles/000.png
+8
+9
+src/recursos/tiles/002.png
+src/recursos/tiles/011.png
+src/recursos/tiles/098.png
+SANGUE NA CALÇADA
+src/recursos/tiles/014.png
+src/recursos/tiles/015.png
+src/recursos/tiles/016.png
+17
+18
+19
+20 ZUMBIS 21,22 - 23-24, 25,26 - 27,28
+src/recursos/tiles/021.png
+src/recursos/tiles/022.png
+src/recursos/tiles/032.png
+src/recursos/tiles/033.png
+src/recursos/tiles/034.png
+src/recursos/tiles/035.png
+src/recursos/tiles/036.png
+src/recursos/tiles/037.png
+PAPEL NA RUA
+src/recursos/tiles/028.png
+src/recursos/tiles/029.png
+32 - SANGUE NA RUA
+src/recursos/tiles/038.png
+src/recursos/tiles/039.png
+src/recursos/tiles/040.png
+src/recursos/tiles/041.png
+src/recursos/tiles/042.png
+src/recursos/tiles/043.png
+39
+src/recursos/tiles/ventilacao 1.png
+src/recursos/tiles/ventilacao 2.png
+src/recursos/tiles/ventilacao 3.png
+src/recursos/tiles/ventilacao 4.png
+44
+45
+46
+47
+48
+49
+src/recursos/tiles/099.png
+src/recursos/tiles/parede pedra[INDEFINIDO].png
+src/recursos/tiles/parede pedra complemento.png
+src/recursos/tiles/371.png
+src/recursos/tiles/372.png
+src/recursos/tiles/373.png
+src/recursos/tiles/374.png
+src/recursos/tiles/375.png
+src/recursos/tiles/376.png
+src/recursos/tiles/377.png
+src/recursos/tiles/378.png
+src/recursos/tiles/379.png
+src/recursos/tiles/380.png
+src/recursos/tiles/381.png
+src/recursos/tiles/382.png
+src/recursos/tiles/398.png
+src/recursos/tiles/224.png
+src/recursos/tiles/399.png
+src/recursos/tiles/400.png
+src/recursos/tiles/057.png
+src/recursos/tiles/058.png
+src/recursos/tiles/059.png
+src/recursos/tiles/060.png
+src/recursos/tiles/061.png
+src/recursos/tiles/062.png
+src/recursos/tiles/063.png
+src/recursos/tiles/064.png
+src/recursos/tiles/065.png
+src/recursos/tiles/066.png
+src/recursos/tiles/067.png
+src/recursos/tiles/068.png
+src/recursos/tiles/423.png
+src/recursos/tiles/424.png
+src/recursos/tiles/008.png
+src/recursos/tiles/rpd1.png
+src/recursos/tiles/rpd2.png
+86
+src/recursos/tiles/012.png
+src/recursos/tiles/355.png
+89
+src/recursos/tiles/199.png
+src/recursos/tiles/097.png
+src/recursos/tiles/264.png
+src/recursos/tiles/265.png
+
+src/recursos/tiles/053.png
+src/recursos/tiles/266.png
+src/recursos/tiles/parede delegacia 2.png
+
+
+100
+src/recursos/tiles/ptdelb1.png
+src/recursos/tiles/ptdelb2.png
+src/recursos/tiles/ptdelb3.png
+src/recursos/tiles/ptdelb4.png
+105
+src/recursos/tiles/269.png
+src/recursos/tiles/270.png
+src/recursos/tiles/271.png
+src/recursos/tiles/272.png
+src/recursos/tiles/273.png
+src/recursos/tiles/274.png
+src/recursos/tiles/275.png
+src/recursos/tiles/276.png
+src/recursos/tiles/caixaMadeira.png
+src/recursos/tiles/205.png
+src/recursos/tiles/206.png
+src/recursos/tiles/207.png
+src/recursos/tiles/208.png
+src/recursos/tiles/209.png
+src/recursos/tiles/210.png
+121
+051 051 051 051 051 051 051 051 051 051 051 051 051 051 051 051 051 051 051 051 051 051 051 051 051 051 051 051 
+051 051 051 051 051 051 051 051 051 051 051 051 051 051 051 051 051 051 051 051 051 051 051 051 051 051 051 051 
+081 007 007 081 081 081 081 081 081 081 081 081 081 081 081 081 081 081 081 081 081 081 081 081 081 081 081 081 
+050 006 006 050 050 050 050 050 050 050 050 050 050 050 050 050 050 050 050 050 050 050 050 050 050 050 050 050
+050 006 006 050 050 050 050 050 050 050 050 050 050 050 050 050 050 050 050 050 050 050 050 050 050 050 050 050 
+050 006 006 050 050 050 050 050 050 050 050 050 050 050 050 050 050 050 050 050 050 050 050 050 050 050 050 050 
+050 006 006 012 050 050 050 050 050 050 050 050 050 012 050 050 050 050 050 050 050 050 050 115 116 117 012 050 
+114 006 006 011 001 001 001 001 001 001 001 001 001 011 014 001 001 001 001 001 001 016 001 118 119 120 011 001 
+001 006 006 114 001 002 002 002 002 002 002 002 002 002 002 002 002 002 002 002 002 002 082 081 081 081 081 081 
+001 001 001 001 001 021 069 072 075 078 031 005 037 005 005 067 005 005 069 072 075 078 082 083 083 083 083 083 
+001 001 001 001 001 022 070 073 076 079 005 005 005 067 005 068 005 035 070 073 076 079 082 083 083 083 083 083 
+081 081 081 081 081 081 081 081 081 081 081 081 081 082 005 005 005 005 071 074 077 080 082 083 083 083 083 083 
+083 083 083 083 083 083 083 083 083 083 083 083 083 082 005 005 005 034 066 005 005 031 082 083 083 083 083 083
+083 083 083 083 083 083 083 083 083 083 083 083 083 082 091 010 033 065 010 010 030 001 082 083 083 083 083 083
+083 083 083 083 083 083 083 083 083 083 083 083 083 082 011 010 010 030 010 010 010 001 082 083 083 083 083 083
+083 083 083 083 083 083 083 083 083 083 083 083 083 082 001 036 010 010 010 010 038 001 082 083 083 083 083 083
+081 081 081 081 081 081 081 081 081 081 081 081 081 081 001 010 010 010 010 010 027 001 081 081 081 081 081 081 
+090 090 090 090 090 090 090 090 090 090 092 090 090 090 001 010 010 035 030 010 028 001 095 095 095 095 095 095 
+090 090 090 101 102 090 096 090 096 090 093 090 088 090 001 031 010 010 010 010 010 001 095 096 095 095 096 095  
+090 090 090 103 104 090 090 090 090 090 090 090 090 090 087 010 010 010 010 010 037 001 095 095 095 095 095 095
+083 083 083 083 083 083 083 083 083 083 083 083 083 001 001 010 010 010 010 010 010 001 095 095 095 095 095 095 
+081 081 081 081 081 081 081 081 081 081 081 081 081 081 081 081 081 081 081 082 010 001 082 081 081 081 081 081
+083 083 083 083 083 083 083 083 083 083 083 083 083 083 083 083 083 083 083 082 010 001 082 083 083 083 083 083
+083 083 083 083 083 083 083 083 083 083 083 083 083 083 083 083 083 083 083 082 001 001 082 083 083 083 083 083
+%
+src/recursos/cenarios/green.png[INDEFINIDO]

@@ -1,0 +1,122 @@
+99
+src/recursos/tiles/piso conveniencia.png
+src/recursos/tiles/banco conveniencia.png
+src/recursos/tiles/porta conveniencia 03.png
+src/recursos/tiles/porta conveniencia 04.png
+05
+06
+07
+08
+09
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+src/recursos/tiles/parede conveniencia 01.png
+src/recursos/tiles/parede conveniencia 02.png
+src/recursos/tiles/janela conveniencia 01.png
+src/recursos/tiles/coca conveniencia 01.png
+src/recursos/tiles/coca conveniencia 02.png
+56
+src/recursos/tiles/banco 1.png
+src/recursos/tiles/banco 2.png
+src/recursos/tiles/banco 3.png
+src/recursos/tiles/banco 4.png
+src/recursos/tiles/mesa conveniencia 1.png
+src/recursos/tiles/mesa conveniencia 2.png
+src/recursos/tiles/mesa conveniencia 3.png
+src/recursos/tiles/mesa conveniencia 4.png
+65
+src/recursos/tiles/balcao 1.png
+src/recursos/tiles/balcao 2.png
+src/recursos/tiles/balcao 3.png
+src/recursos/tiles/balcao 4.png
+70
+src/recursos/tiles/prateleira 1.png
+src/recursos/tiles/prateleira 2.png
+src/recursos/tiles/prateleira 3.png
+src/recursos/tiles/prateleira 4.png
+src/recursos/tiles/prateleira 5.png
+src/recursos/tiles/prateleira 6.png
+src/recursos/tiles/prateleira 7.png
+src/recursos/tiles/prateleira 8.png
+src/recursos/tiles/geladeira 1.png
+src/recursos/tiles/geladeira 2.png
+81
+src/recursos/tiles/porta conveniencia 01.png
+src/recursos/tiles/porta conveniencia 02.png
+src/recursos/tiles/porta conveniencia 05.png
+src/recursos/tiles/porta conveniencia 06.png
+src/recursos/tiles/porta conveniencia 07.png
+src/recursos/tiles/porta conveniencia 08.png
+src/recursos/tiles/porta conveniencia 09.png
+src/recursos/tiles/porta conveniencia 10.png
+src/recursos/tiles/porta conveniencia 11.png
+src/recursos/tiles/porta conveniencia 12.png
+src/recursos/tiles/porta conveniencia 13.png
+src/recursos/tiles/porta conveniencia 14.png
+src/recursos/tiles/porta conveniencia 15.png
+src/recursos/tiles/porta conveniencia 16.png
+96
+src/recursos/tiles/teto conveniencia 01.png
+src/recursos/tiles/teto conveniencia 02.png
+src/recursos/tiles/black.png
+99 98 97 97 97 97 97 97 97 97 97 97 97 97 97 97 97 97 97 97 97 98 98 98 98 99
+99 98 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 51 98 98 98 98 99
+99 98 88 89 51 51 51 51 51 51 53 53 51 51 53 53 51 51 53 53 51 97 97 97 98 99
+99 98 90 91 51 51 79 54 68 57 61 63 59 57 61 63 59 57 61 63 59 51 51 51 98 99
+99 98 01 01 01 01 80 55 68 58 62 64 60 58 62 64 60 58 62 64 60 51 92 93 98 99
+99 98 01 01 01 01 01 01 68 01 01 01 01 01 01 01 01 01 01 01 01 51 94 95 98 99
+99 98 01 01 66 66 66 66 67 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 98 99
+99 98 01 01 69 69 69 69 69 01 01 01 01 01 01 01 01 01 01 01 01 01 01 01 98 99
+99 98 01 01 02 02 02 02 02 01 01 01 98 98 98 98 98 98 98 98 98 98 98 98 98 99
+99 98 01 01 01 01 01 01 01 01 01 79 98 51 51 51 51 51 51 51 51 51 51 51 51 99
+99 98 01 01 01 01 77 78 75 72 71 80 98 51 51 51 51 51 51 51 51 51 51 51 51 99
+99 98 01 01 01 01 01 01 01 01 01 01 98 51 51 51 51 51 51 51 51 51 51 51 51 99
+99 98 01 01 01 01 01 01 01 01 01 01 98 99 99 99 99 99 99 99 99 99 99 99 99 99
+99 98 01 01 01 01 71 72 73 74 75 76 98 99 99 99 99 99 99 99 99 99 99 99 99 99
+99 98 01 01 01 01 01 01 01 01 01 01 98 99 99 99 99 99 99 99 99 99 99 99 99 99
+99 97 01 01 01 01 97 97 97 97 97 97 97 99 99 99 99 99 99 99 99 99 99 99 99 99
+99 51 01 01 01 01 51 51 51 51 51 51 51 99 99 99 99 99 99 99 99 99 99 99 99 99
+99 51 82 83 03 04 51 53 53 51 54 51 51 99 99 99 99 99 99 99 99 99 99 99 99 99
+99 52 84 85 86 87 52 52 52 52 55 52 52 99 99 99 99 99 99 99 99 99 99 99 99 99
+99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99 99
+%
+src/recursos/cenarios/nevoa_NO_IMAGE.pnggg
